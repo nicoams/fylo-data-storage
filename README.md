@@ -34,8 +34,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-fylo-data-storage-component-1GE0mxS-oe)
+- Live Site URL: [GitHub](https://github.com/nicoams/fylo-data-storage)
 
 ## My process
 
